@@ -1,0 +1,34 @@
+body{
+    padding: auto;
+    margin: auto 20%;
+}
+
+#my-image{
+    max-width: 150px;
+    height: auto;
+    float: left;
+    margin: 10px;
+}
+
+.content{
+}
+
+dl{
+    clear: left;
+}
+
+ul{
+    margin-top: auto;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+dd{
+    margin-bottom: 5px;
+    margin-left: 0;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 1.15rem;
+}
